@@ -1,0 +1,14 @@
+C:\JORGE\PROYDOS\bin\Debug\netcoreapp2.2\PROYDOS.deps.json
+C:\JORGE\PROYDOS\bin\Debug\netcoreapp2.2\PROYDOS.runtimeconfig.json
+C:\JORGE\PROYDOS\bin\Debug\netcoreapp2.2\PROYDOS.runtimeconfig.dev.json
+C:\JORGE\PROYDOS\bin\Debug\netcoreapp2.2\PROYDOS.dll
+C:\JORGE\PROYDOS\bin\Debug\netcoreapp2.2\PROYDOS.pdb
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.csprojAssemblyReference.cache
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.csproj.CoreCompileInputs.cache
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.RazorAssemblyInfo.cache
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.RazorAssemblyInfo.cs
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.AssemblyInfoInputs.cache
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.AssemblyInfo.cs
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.RazorTargetAssemblyInfo.cache
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.dll
+C:\JORGE\PROYDOS\obj\Debug\netcoreapp2.2\PROYDOS.pdb
